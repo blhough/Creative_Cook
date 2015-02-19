@@ -43,8 +43,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-sub-proj.sublime-project
-sub-proj.sublime-workspace
+.sublime-project
+.sublime-workspace
 
 
 node_modules/
