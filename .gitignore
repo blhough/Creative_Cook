@@ -53,5 +53,6 @@ css/.sass-cache/
 
 .ftppass
 
-build/
+css/build/
+js/build/
 node_modules/
