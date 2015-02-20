@@ -1,15 +1,26 @@
-h1{
+*{
     color: crimson;
+    font-family: 'calibri';
 } 
 
-
-body{
-	#id1{
-		.classname{
-
-			background: green;
-		}
-
-
-	}
+html, body{
+	    margin: 0;
+    padding: 0;
 }
+
+#container{
+	margin: 140px auto;
+	border: 0 solid crimson;
+	border-width: 5px 0;
+	background: rgba( crimson, .1 );
+}
+
+h1 , h3{
+	text-align: center;
+}
+
+
+h1{
+	font-size: 48px;
+}
+

@@ -1,1 +1,1 @@
-h1{color:#dc143c}body #id1 .classname{background:green}
+*{color:#dc143c;font-family:calibri}body,html{margin:0;padding:0}#container{margin:140px auto;border:0 solid #dc143c;border-width:5px 0;background:rgba(220,20,60,.1)}h1,h3{text-align:center}h1{font-size:48px}
